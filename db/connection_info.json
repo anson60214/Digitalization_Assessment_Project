@@ -1,0 +1,25 @@
+{
+    "dev": {
+        "host": "122.116.110.228",
+        "database": "pwc_digital_asset",
+        "port": 5432,
+        "user": "pwc_da_out2",
+        "password": "pwcdr900"
+    },
+    "test_server": {
+        "host": "localhost",
+        "database": "pwc_digital_asset",
+        "port": 5432,
+        "user": "pwc_da_out2",
+        "password": "pwcdr900"
+    },
+    "admin": {
+        "host": "122.116.110.228",
+        "database": "pwc_digital_asset",
+        "port": 5432,
+        "user": "pwc_da_admin",
+        "password": "pwc1QAZ"
+    },
+    "prod": {}
+    
+}

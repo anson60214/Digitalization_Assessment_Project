@@ -1,0 +1,10 @@
+
+*.pyc
+convert_ttf.py
+unused/
+LOG/
+*.pyc
+db/__pycache__/model_stg.cpython-311.pyc
+db/__pycache__/repository_stg.cpython-311.pyc
+module/__pycache__/formula_check.cpython-311.pyc
+module/__pycache__/model.cpython-311.pyc
